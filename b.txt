@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-This is first line of b.txt
-=======
 this is first line of the b.txt
 this is second line of the b.txt
->>>>>>> 2e2aafa7dd9646a9cc0d2806cc7446dc39987316
 this is the third line of the b.txt
