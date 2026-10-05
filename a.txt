@@ -1,2 +1,4 @@
 This is first line of a.txt
 This second line of a.txt
+This third line of a.txt
+This fourth line of a.txt
