@@ -1,3 +1,4 @@
 this is first line of the b.txt
 this is second line of the b.txt
 this is the third line of the b.txt
+this is the forth line of the b.txt
